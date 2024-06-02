@@ -1,1 +1,1 @@
-# julhas786-Cardiomegaly_detection_from_chest_x-ray
+#Cardiomegaly detection from chest x-ray
